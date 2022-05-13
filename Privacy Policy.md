@@ -1,5 +1,5 @@
 <h1>Privacy Policy</h1>
-<p>Last updated: May 9, 2022</p>
+<p>Last updated: May 13, 2022</p>
 <p>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>
 <p>We do not use or collect any of Your Personal data in Our Service. This Privacy Policy has been created with the help of the <a href="https://www.termsfeed.com/blog/sample-privacy-policy-template/" target="_blank">Privacy Policy Template</a>.</p>
 <h1>Interpretation and Definitions</h1>
@@ -37,20 +37,25 @@
 <h1>Collecting and Using Your Personal Data</h1>
 <h2>Types of Data Collected</h2>
 <h3>Personal Data</h3>
-<p>When You use Our Service, We do not collect any of Your personal Information.
+<p>When You use Our Service, We do not collect any personally identifiable information on You.
 <h3>Usage Data</h3>
-<p>The only data collected from your device is Your Device's Advertiser ID. This information is collected by Unity (third-party company) to show You personalised ads. This can be easily turned off in "Setting>Privacy>Ads>Delete Advertiser ID".</p>
+<p>The only data collected from your device is Your Device's Advertiser ID. This is collected by Unity (third-party company) to show You personalised ads. This can be easily turned off in "Setting>Privacy>Ads>Delete Advertiser ID".</p>
 <h2>Use of Your Personal Data</h2>
-<p>We do not collect or request for any of Your Personal Data. And We mean, None. When using Our Application, no Account is required to use it. Once downloaded, You can use the Service immediately on any compatible (Android) Device.</p>
+<p>Unity collects Your Device's Advertiser ID, which is used to serve personalised ads to You. However, this can be easily turned off in "Settings>Privacy>Ads>Delete Advertiser ID". When using Our Application, no Account is required to use it. Once downloaded, You can use the Service immediately on any compatible (Android) Device.</p>
 </li>
 </ul>
 <h2>Disclosure of Your Personal Data</h2>
-<p>We do not share or disclose Your personal data as We do not collect at all in the first place.</p>
-<h1>Children's Privacy</h1>
-<p>Our Application does not collect any personally identifiable information from anyone under the age of 13.</p>
+<p>Unity collects Your Device's Advertiser ID, which is used to serve personalised ads to You. However, this can be easily turned off in "Settings>Privacy>Ads>Delete Advertiser ID".</p>
+
+<h2>Advertisements</h2>
+<p>There are no forced ads that obstruct typical gameplay. Ads can be played by You for a reward. Unity collects Your Device's Advertiser ID, which is used to serve personalised ads to You. However, this can be easily turned off in "Settings>Privacy>Ads>Delete Advertiser ID". Once the Advertiser ID is deleted, Unity will serve ads that may not be as relevant to you. Check Unity3D's Privacy Policy here: https://unity3d.com/legal/privacy-policy</p>
+
+<h2>Children's Privacy</h2>
+<p>Our Application does not collect any personally identifiable information from anyone under the age of 13. However, Unity does collect Your Device's Advertiser ID, which is used to serve personalised ads to You. However, this can be easily turned off in "Settings>Privacy>Ads>Delete Advertiser ID".</p>
 <h1>Links to Other Websites</h1>
 <p>No links to any third-party websites are present in Our Application, and thus your experience with Our Service is safe.</p>
 </p>
+
 <h1>Changes to this Privacy Policy</h1>
 <p>We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.</p>
 <p>We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the &quot;Last updated&quot; date at the top of this Privacy Policy.</p>
