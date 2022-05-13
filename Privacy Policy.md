@@ -39,7 +39,7 @@
 <h3>Personal Data</h3>
 <p>When You use Our Service, We do not collect any of Your personal Information.
 <h3>Usage Data</h3>
-<p>No Usage Data is collected or requested for when using the Service.</p>
+<p>The only data collected from your device is Your Device's Advertiser ID. This information is collected by Unity (third-party company) to show You personalised ads. This can be easily turned off in "Setting>Privacy>Ads>Delete Advertiser ID".</p>
 <h2>Use of Your Personal Data</h2>
 <p>We do not collect or request for any of Your Personal Data. And We mean, None. When using Our Application, no Account is required to use it. Once downloaded, You can use the Service immediately on any compatible (Android) Device.</p>
 </li>
